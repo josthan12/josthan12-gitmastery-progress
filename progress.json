@@ -203,5 +203,14 @@
       "Great work setting up a public remote repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787206900.720975,
+    "completed_at": 1787206902.479955,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
   }
 ]
